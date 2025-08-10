@@ -15,9 +15,11 @@ How to clean and format data for better understanding
 
 How to use Pivot Tables and Charts to make data easy to read
 
+
 Tools Used
 
 Microsoft Excel
+
 
 File
 
